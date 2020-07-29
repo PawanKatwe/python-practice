@@ -23,8 +23,6 @@ while user_input == "rock":
         break
 else: print('thanks for playing')
     
-
-'''
 while user_input == "seasor":
         if com_input == "rock":
             print("You loose")
@@ -44,4 +42,4 @@ while user_input == "paper":
             print("You loose")
         break
 else: print('thanks for playing')
-'''
+
